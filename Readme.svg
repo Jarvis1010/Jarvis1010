@@ -2,10 +2,12 @@
     <foreignObject width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml">
             <link rel="stylesheet" href="https://unpkg.com/@bedrock-layout/css/" />
+            <link rel="stylesheet" href="https://unpkg.com/open-props"/>
             <style>
-            *{
-              color: currentColor;
-            }
+                body {
+                    background-color: var(--gray-9);
+                    color: var(--gray-0);
+                }
             </style>
             <header data-bedrock-cover=''>
               <div data-bedrock-cover-centered data-bedrock-stack>

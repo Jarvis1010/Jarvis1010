@@ -1,7 +1,7 @@
-<link rel="stylesheet" href="https://unpkg.com/@bedrock-layout/css/" />
-<header data-bedrock-cover>
-  <h1 align='center'>Hi there 👋, I'm Travis Waith-Mair</h1>
-</header>
+<h1 align='center'>Hi there 👋, I'm Travis Waith-Mair</h1>
+
+<img src="Readme.svg" width="100" height="100" alt="css-in-readme">
+
 <!--
 **Jarvis1010/Jarvis1010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

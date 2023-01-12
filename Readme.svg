@@ -2,7 +2,7 @@
     <foreignObject width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml">
             <link rel="stylesheet" href="https://unpkg.com/@bedrock-layout/css/" />
-            <header data-bedrock-cover>
+            <header data-bedrock-cover=''>
               <h1 align='center'>Hi there 👋, I'm Travis Waith-Mair</h1>
             </header>
         </div>

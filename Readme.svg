@@ -10,7 +10,7 @@
                 }
             </style>
             <header data-bedrock-cover=''>
-              <div data-bedrock-cover-centered data-bedrock-stack>
+              <div data-bedrock-cover-centered='' data-bedrock-stack=''>
                 <h1 align='center'>Hi there 👋, I'm Travis Waith-Mair</h1>
               </div>
             </header>

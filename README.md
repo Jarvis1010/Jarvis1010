@@ -1,4 +1,6 @@
-### Hi there 👋
+<center>
+  # Hi there 👋, I'm Travis Waith-Mair
+</center>
 
 <!--
 **Jarvis1010/Jarvis1010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

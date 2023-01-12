@@ -1,6 +1,7 @@
 <link rel="stylesheet" href="https://unpkg.com/@bedrock-layout/css/" />
-<h1 align='center'>Hi there 👋, I'm Travis Waith-Mair</h1>
-
+<header data-bedrock-cover>
+  <h1 align='center'>Hi there 👋, I'm Travis Waith-Mair</h1>
+</header>
 <!--
 **Jarvis1010/Jarvis1010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,4 +15,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->

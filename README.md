@@ -11,7 +11,7 @@
       <a href="https://www.bedrock-layout.dev/"><b>Bedrock Layout Primitives</b></a>
     </th>
    <th align="center" >
-      <a href="https://non-traditional.dev/"><b>Non-Traditional.dev</b> (Blog)</a>
+      <a href="https://non-traditional.dev/"><b>Blog</b></a>
     </th>
   </tr>
   <td align="center">
@@ -26,7 +26,7 @@
     <a href="https://non-traditional.dev/"><img
       src="https://cdn.hashnode.com/res/hashnode/image/upload/v1638999422358/CLDVOiWyE.png?w=200&h=120&fit=crop&crop=entropy&auto=compress,format&format=webp"
       height="120"
-      width="200"
+      width="120"
       alt='Non-Traditional.dev Blog'
     /></a>
   </td>
@@ -36,7 +36,7 @@
 <table align="center">
   <tr>
     <th align="center">
-      <a href="https://www.newline.co/courses/composing-layouts-in-react"><b>Composing Layouts in React</b></a>
+      <a href="https://www.newline.co/courses/composing-layouts-in-react"><b>Composing Layouts</b></a>
     </th>
    <th align="center">
       <a href="https://github.com/Jarvis1010"><b>Github</b></a>

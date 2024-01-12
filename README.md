@@ -95,9 +95,9 @@
 
 <ul>
   <li><a href="#what-do-i-do">What Do I Do?</a></li>
-  <li><a href="#what-do-i-do">Open Source Projects</a></li>
-  <li><a href="#what-do-i-do">Blog Posts</a></li>
-  <li><a href="#what-do-i-do">Podcasts I've been on</a></li>
+  <li><a href="#open-source-projects">Open Source Projects</a></li>
+  <li><a href="#blog-posts">Blog Posts</a></li>
+  <li><a href="#podcasts-and-public-appearances">Podcasts I've been on</a></li>
   <li><a href="#stats">Stats</a></li>
 </ul>
 

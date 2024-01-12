@@ -8,7 +8,7 @@
 <table align="center">
   <tr>
     <th align="center" >
-      <a href="https://www.bedrock-layout.dev/"><b>Bedrock Layout Primitives</b></a>
+      <a href="https://www.bedrock-layout.dev/"><b>Bedrock Layout</b></a>
     </th>
    <th align="center" >
       <a href="https://non-traditional.dev/"><b>Blog</b></a>
